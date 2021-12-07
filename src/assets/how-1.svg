@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="81px" viewBox="0 0 90 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>HowItWorks-icon-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="How-It-Works" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-251.000000, -291.000000)">
+        <g id="HowItWorks-icon-1">
+            <g transform="translate(251.000000, 291.000000)">
+                <rect id="Rectangle-15" stroke="#D8D8D8" stroke-width="6" x="3" y="3" width="84" height="59" rx="4"></rect>
+                <rect id="Rectangle-47" fill="#D8D8D8" x="16" y="16" width="18" height="15" rx="2"></rect>
+                <rect id="Rectangle-47-Copy" fill="#D8D8D8" x="41" y="16" width="18" height="15" rx="2"></rect>
+                <rect id="Rectangle-47-Copy-2" fill="#D8D8D8" x="16" y="35" width="18" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-47-Copy-4" fill="#D8D8D8" x="41" y="35" width="18" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-47-Copy-3" fill="#D8D8D8" x="16" y="40" width="18" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-47-Copy-5" fill="#D8D8D8" x="41" y="40" width="18" height="3" rx="1.5"></rect>
+                <path d="M63.1694624,52.743986 C61.5755945,52.743986 60.2832809,54.0362996 60.2832809,55.6301675 L60.2832809,53.4655314 C60.2832809,51.8716635 58.9909672,50.5793499 57.3970993,50.5793499 C55.8032315,50.5793499 54.5109178,51.8716635 54.5109178,53.4655314 L54.5109178,52.0224406 C54.5109178,50.4285727 53.2186042,49.1362591 51.6247363,49.1362591 C50.0308684,49.1362591 48.7385548,50.4285727 48.7385548,52.0224406 L48.7385548,41.9208053 C48.7385548,40.3269374 47.4462412,39.0346238 45.8523733,39.0346238 C44.2585054,39.0346238 42.9661918,40.3269374 42.9661918,41.9208053 L42.9661918,64.311054 L40.9558507,61.3729059 C39.9433049,59.8931546 37.9238295,59.5140825 36.4426587,60.5266284 C34.9629075,61.5391742 34.5838354,63.5600691 35.5963812,65.0398204 C35.5963812,65.0398204 40.445381,72.427344 41.7294861,74.0591067 C45.2311814,78.508544 50.0710469,81.3911458 55.0657011,80.8815401 C61.0620388,80.2697294 66.0555204,77.2764671 66.0555204,70.0610134 L66.0555204,55.6301058 C66.0556439,54.0362379 64.7633303,52.743986 63.1694624,52.743986 Z" id="Shape" fill="#4264E3" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
