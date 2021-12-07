@@ -181,7 +181,7 @@ export default function Home() {
         <div className="container">
           <Title title="What You Get" />
           <div className="row inner">
-            <div className="col-6 mx-auto col-sm-6 ">
+            <div className="col-md-6 mx-auto col-sm-6 ">
               <Slider {...settings}>
                 <div>
                   <img src={RESUME1} height="auto" width="400px" />
